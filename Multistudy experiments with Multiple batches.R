@@ -356,7 +356,7 @@ c <- fviz_nbclust(ds_ul, clara, linecolor = "red", method = "silhouette")+
   labs(subtitle = "Silhouette method")
 
 # "NbClust" function
-nb <- NbClust(ds_ul, distance = "manhattan", min.nc = 2,max.nc = 20, method = "ward.D2")
+nb <- NbClust(ds_ul, distance = "manhattan", min.nc = 2,max.nc = 20, method = "ward.D2", index ="all")
 d <-fviz_nbclust(nb)
 
 ############################
