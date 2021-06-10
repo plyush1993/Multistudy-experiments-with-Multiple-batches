@@ -2,7 +2,7 @@
 
 The following script is provided some operations for multistudy multibatch experiment:
 
-1). Signal drift correction (EigenMS, VSN, Quantile, Cubic Spline) [Li B, Tang J, Yang Q, Li S, Li Y, Xue W, Li X, Zhu F*. NOREVA: normalization and evaluation of MS-based metabolomics data. Nucleic Acids Res. 45(W1): 162-170 (2017). PMID: 28525573].
+1). Signal drift correction (EigenMS, VSN, Quantile, Cubic Spline) [[1]](https://academic.oup.com/nar/article/45/W1/W162/3835313).
 
 2). Missing value imputation and univariate filtering.
 
