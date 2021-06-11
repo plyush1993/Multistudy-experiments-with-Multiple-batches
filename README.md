@@ -9,3 +9,6 @@ The following script is provided some operations for multistudy multibatch exper
 3). Multicore machine learning with variables importance ranking and automated feature selection.
 
 4). Unsupervised learning projection, clustering tendency validation and plots generating and saving.
+
+Contact:
+Please send any comment, suggestion or question you may have to the author (Mr. Ivan Plyushchenko), email: plyushchenko.ivan@gmail.com.
