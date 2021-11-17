@@ -15,3 +15,7 @@ Please send any comment, suggestion or question you may have to the author (Mr. 
 
 ## Citation:
 > [Plyushchenko I.V., Shakhmatov D.G., Rodin I.A. Algorithm of combining chromatography mass spectrometry-untargeted profiling and multivariate analysis for identification of marker-substances in samples of complex composition. Industrial laboratory. Diagnostics of materials. 2020;86(7):12-19. (In Russ.)](https://doi.org/10.26896/1028-6861-2020-86-7-12-19)
+
+<p align="center">
+  <a href="https://www.scimagojr.com/journalsearch.php?q=25268&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=25268" alt="SCImago Journal &amp; Country Rank" width="150" height="150" /></a>
+</p>
