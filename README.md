@@ -11,7 +11,7 @@ The following script is provided some operations for multistudy multibatch exper
 4). Unsupervised learning projection, clustering tendency validation and plots generating and saving.
 
 ## Contact:
-Please send any comment, suggestion or question you may have to the author (Mr. Ivan Plyushchenko), email: plyushchenko.ivan@gmail.com.
+Please send any comment, suggestion or question you may have to the author (Dr. Ivan Plyushchenko), email: plyushchenko.ivan@gmail.com.
 
 ## Citation:
 > [Plyushchenko, I.V., Shakhmatov, D.G. & Rodin, I.A. Algorithm of Combining Chromatography–Mass Spectrometry Untargeted Profiling and Multivariate Analysis for Identification of Marker Substances in Samples of Complex Composition. Inorg Mater 57, 1397–1403 (2021).](https://doi.org/10.1134/S0020168521140089)
