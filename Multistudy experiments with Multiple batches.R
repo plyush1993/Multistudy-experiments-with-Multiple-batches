@@ -27,11 +27,10 @@ library(vsn)
 # stop parallel
 stopCluster(cl)
 stopImplicitCluster()
-registerDoSEQ()
 
 # start parallel processing
-fc <- as.numeric(detectCores(logical = F))
-cl <- makePSOCKcluster(fc+1)
+fc <- as.numeric(detectCores(logical = T))
+cl <- makePSOCKcluster(fc-1)
 registerDoParallel(cl)
 
 ############################# LOAD INPUT DATA
